@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-label="Memory placeholder eight">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffd7a8"/>
+      <stop offset="55%" stop-color="#ffb8cf"/>
+      <stop offset="100%" stop-color="#12061a"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="900" rx="64" fill="url(#bg)"/>
+  <circle cx="450" cy="330" r="176" fill="#fff" opacity="0.18"/>
+  <circle cx="365" cy="300" r="56" fill="#fff7fb"/>
+  <circle cx="535" cy="300" r="56" fill="#fff7fb"/>
+  <circle cx="365" cy="292" r="14" fill="#25111f"/>
+  <circle cx="535" cy="292" r="14" fill="#25111f"/>
+  <path d="M306 538 C348 468, 552 468, 594 538" fill="none" stroke="#fff2f7" stroke-width="20" stroke-linecap="round"/>
+  <path d="M255 710 C325 652, 575 652, 645 710" fill="none" stroke="#fff2f7" stroke-width="22" stroke-linecap="round" opacity="0.75"/>
+  <text x="450" y="808" text-anchor="middle" font-family="Georgia, serif" font-size="42" fill="#fff2f7">Memory 8</text>
+</svg>
