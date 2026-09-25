@@ -1,5 +1,5 @@
 export const GIRLFRIEND_NAME = 'Chethana (Chethu bngrm )'
-export const YOUR_NAME = '[YOUR NAME]'
+export const YOUR_NAME = 'Eswar'
 
 // Replace these placeholders with your real dates.
 export const FIRST_MET_DATE = '[DATE]'
@@ -253,7 +253,7 @@ export const letterParagraphs = [
   'Mahh... nenu ninnu entha love chesthunnano... enta care chesthunnano... enta important ga chusukuntunnano... ivi anni words tho complete ga cheppalenu.',
   'Kaani oka roju... naa actions chusi nuvve ardham cheskovali. "Eswar nannu nijanga chala love chesthunnadu..." ani.',
   'Adhe naaku kavali. ❤️',
-  `Forever...\n${YOUR_NAME} ❤️`,
+  `Forever...\nnee ESWAR ❤️`,
 ]
 
 export const apologyParagraphs = [

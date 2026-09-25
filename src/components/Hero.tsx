@@ -69,12 +69,8 @@ export function Hero({ onEnterStory, onSoftClick }: HeroProps) {
       >
         <div className="hero-photo-frame hero-photo-frame--main">
           <div className="hero-photo-surface hero-photo-surface--image" style={{ backgroundImage: `url(${HERO_IMAGE})` }}>
-            <span>Replace this with your favorite couple photo</span>
           </div>
         </div>
-
-        <div className="hero-note hero-note--top">A quiet, glowing place made for us.</div>
-        <div className="hero-note hero-note--bottom">Soft light, soft hearts, strong feelings.</div>
       </motion.div>
     </section>
   )
