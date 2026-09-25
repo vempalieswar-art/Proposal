@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import { STORY_IMAGE, storyMilestones } from '../data/loveStory'
+import { storyMilestones } from '../data/loveStory'
 import { Section } from './Section'
 
 export function Story() {
